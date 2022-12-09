@@ -1,0 +1,10 @@
+C:\Учебная практика\Неделя 2 Задание 4\prog4.1form\prog4.1form\bin\Debug\prog4.1form.exe.config
+C:\Учебная практика\Неделя 2 Задание 4\prog4.1form\prog4.1form\bin\Debug\prog4.1form.exe
+C:\Учебная практика\Неделя 2 Задание 4\prog4.1form\prog4.1form\bin\Debug\prog4.1form.pdb
+C:\Учебная практика\Неделя 2 Задание 4\prog4.1form\prog4.1form\obj\Debug\prog4.1form.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 2 Задание 4\prog4.1form\prog4.1form\obj\Debug\prog4._1form.Form1.resources
+C:\Учебная практика\Неделя 2 Задание 4\prog4.1form\prog4.1form\obj\Debug\prog4._1form.Properties.Resources.resources
+C:\Учебная практика\Неделя 2 Задание 4\prog4.1form\prog4.1form\obj\Debug\prog4.1form.csproj.GenerateResource.cache
+C:\Учебная практика\Неделя 2 Задание 4\prog4.1form\prog4.1form\obj\Debug\prog4.1form.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 2 Задание 4\prog4.1form\prog4.1form\obj\Debug\prog4.1form.exe
+C:\Учебная практика\Неделя 2 Задание 4\prog4.1form\prog4.1form\obj\Debug\prog4.1form.pdb
